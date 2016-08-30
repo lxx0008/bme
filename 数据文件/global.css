@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+/*å…¨å±€æ ·å¼*/
+*{padding:0;margin:0 auto;} 
+div,dl,dt,dd,form,h1,h2,h3,h4,h5,h6,img,ol,ul,li,table,th,td,p,span,a{border:0;} 
+img,input{border:none;vertical-align:middle;} 
+body{font-family:Arial,Tahoma,Helvetica,"å¾®è½¯é›…é»‘";font-size:12px;text-align:center;color:#000;} 
+html{overflow-y:scroll;} 
+ul,ol{list-style-type:none;} 
+th,td,input{font-size:12px;} 
+h3{font-size:14px;} 
+button{border:none;cursor:pointer;font-size:12px;background-color:transparent;} 
+select{border-width:1px;_zoom:1;border-style:solid;padding-top:2px;font-size:12px;} 
+.clear{clear:both;font-size:1px;height:0;visibility:hidden;line-height:0;} 
+.clearfix:after{content:"";display:block;clear:both;} 
+.clearfix{zoom:1;} 
+a:link,a:visited{text-decoration:none;color:#157096;} 
+a:hover,a:active{text-decoration:none;color:#157096;cursor: pointer;}
+.clearfloat{clear: both;}
+a{color:#333333}
+li,li p,li a,p,ul{color:#333333;}
+
